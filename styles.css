@@ -1,7 +1,8 @@
-.bold {
+.boldUnderlineRed {
 	font-weight: bold;
 	color: red;
 	text-decoration: underline;
+	text-decoration-color: black;
 }
 #highlight {
 	background-color: yellow;
