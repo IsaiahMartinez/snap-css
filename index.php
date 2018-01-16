@@ -8,6 +8,6 @@
 	<body>
 		<p class="boldUnderlineRed">Today is the beginning of a new school week.</p>
 		<p class="boldUnderlineRed">We are learning CSS styling.</p>
-		<span id="highlight">The end.</span>
+		<p><span id="highlight">The end.</span></p>
 	</body>
 </html>
